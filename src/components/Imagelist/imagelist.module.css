@@ -1,0 +1,25 @@
+.imageLayout {
+    background-color: #fff;
+    font-size: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+@media (min-width: 576px) {
+    .imageLayout {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+
+    }
+}
+
+
+
+.conmar{
+    margin-bottom: 1rem;
+}
+
+.imageRow {
+    display: flex;
+    justify-content: center;
+}

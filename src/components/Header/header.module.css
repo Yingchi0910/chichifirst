@@ -1,0 +1,59 @@
+/*Header*/
+.header {
+    background-color: #00979c;
+    height: 35vh;
+    color: #fff;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  @media screen and (min-width: 768px) {
+      .header {
+        height: 40vh;
+        font-size: 1rem;
+      }
+  }
+    
+  .headerAvatar {
+    width: 10rem;
+    height:10rem;
+    vertical-align: middle;
+    justify-content: center;
+
+  }
+    
+    .headerTitle {
+      font-size: 2em;
+      text-transform: uppercase;
+      font-weight: 200;
+    }
+    
+    .headerSlogan {
+      font-size: 1.25em;
+      text-transform: uppercase;
+      margin: 0;
+    }
+    
+    @media screen and (min-width: 768px) {
+        .headerAvatar {
+            width: 15rem;
+            height: 15rem;
+            vertical-align: middle;
+            padding: 1rem;
+          }
+
+        .headerTitle {
+          font-size: 3em;
+          text-transform: uppercase;
+          font-weight: 200;
+        }
+        
+        .headerSlogan {
+          font-size: 1.75em;
+          text-transform: uppercase;
+          margin: 0;
+        }
+     }

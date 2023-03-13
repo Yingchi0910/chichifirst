@@ -1,0 +1,34 @@
+[
+    {
+        "title":"place 1",
+        "images":"images/img1.jpg"
+    },
+    {
+        "title":"place 2",
+        "images":"images/img2.jpg"
+    },
+    {
+        "title":"place 3",
+        "images":"images/img3.jpg"
+    },
+    {
+        "title":"place 4",
+        "images":"images/img4.jpg"
+    },
+    {
+        "title":"place 5",
+        "images":"images/img5.jpg"
+    },
+    {
+        "title":"place 6",
+        "images":"images/img6.jpg"
+    },
+    {
+        "title":"place 7",
+        "images":"images/img7.jpg"
+    },
+    {
+        "title":"place 8",
+        "images":"images/img8.jpg"
+    }
+]
