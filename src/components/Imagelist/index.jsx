@@ -1,6 +1,6 @@
 import images from "../../json/image.json";
 import ImageItem from "../Imageitem";
-import styles from "./imagelist.module.css"
+import styles from "./imageList.module.css"
 import {Row, Col} from "antd"
 
 export default function ImageList(){
