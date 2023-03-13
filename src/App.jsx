@@ -1,4 +1,4 @@
-import 'antd/dist/reset.css';
+import 'antd/dist/reset.css'
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import Home from './pages/Home';
