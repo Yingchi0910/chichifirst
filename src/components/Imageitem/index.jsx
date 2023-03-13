@@ -7,8 +7,6 @@ export default function ImageItem({image}){
       <Col
       className={styles.image}
       key={image.title}
-   
-
   >
                 <a href="" className={styles.imageLink}>
                   <img src={image.images} alt="" className={styles.imageStyle} />
