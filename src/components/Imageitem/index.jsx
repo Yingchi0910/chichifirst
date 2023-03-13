@@ -1,4 +1,4 @@
-import styles from "./imageitem.module.css"
+import styles from "./imageItem.module.css"
 import { Col } from "antd"
 
 export default function ImageItem({image}){
